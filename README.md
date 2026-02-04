@@ -4,7 +4,7 @@ Welcome to **Royal Fashions**, a sleek and responsive e-commerce frontend built 
 
 ##  Live Preview
 
-![Promotional Banner](https://github.com/Rockstar1611/E-commerce-website/blob/main/imgs/Hero_background.jpg)
+![Promotional Banner]<br><img src="E-Commerce_Website.png" alt="">
 
 > **Best Deals • Value For Money Products • Save more with coupons and up to 70% off!**
 
@@ -23,7 +23,7 @@ Welcome to **Royal Fashions**, a sleek and responsive e-commerce frontend built 
 
 ##  Image Assets
 
-All visuals are stored in the <img src="Hero_background.jpg" alt="E-commerce"></a> folder. Key assets include:
+All visuals are stored in the folder. Key assets include:
 
 | Image Name | Description |
 |------------|-------------|
